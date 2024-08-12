@@ -21,7 +21,3 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Wisyam&layout=compact&theme=holi)](https://wakatime.com/@Wisyam)
 ###
-
-<br clear="both">
-
-###
