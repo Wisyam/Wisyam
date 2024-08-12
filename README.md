@@ -2,15 +2,6 @@
 
 ###
 
- <img src="https://github-readme-stats.vercel.app/api?username=Wisyam&theme=tokyonight&count_private=true&line_height=20&hide_border=true&show_icons=true"/>
-  <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisyam&layout=compact&theme=tokyonight&count_private=true&hide_border=true"/>
-
-###
-
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
