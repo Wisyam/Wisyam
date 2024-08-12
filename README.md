@@ -26,6 +26,8 @@
 ###
 [![wakatime](https://wakatime.com/badge/user/b3c0dabe-d2af-49ef-aa7c-5f6fe33b1ae9.svg)](https://wakatime.com/@jadlionhd)
 ![](https://komarev.com/ghpvc/?username=Wisyam&label=Profile%20views&color=0e75b6&style=flat)
+
+
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Wisyam&layout=compact&theme=holi)](https://wakatime.com/@Wisyam)
 ###
 
