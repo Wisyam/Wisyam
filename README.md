@@ -24,7 +24,7 @@
 </div>
 
 ###
-[![wakatime](https://wakatime.com/badge/user/b3c0dabe-d2af-49ef-aa7c-5f6fe33b1ae9.svg)](https://wakatime.com/@jadlionhd)
+[![wakatime](https://wakatime.com/badge/user/b3c0dabe-d2af-49ef-aa7c-5f6fe33b1ae9.svg)](https://wakatime.com/@Wisyam)
 ![](https://komarev.com/ghpvc/?username=Wisyam&label=Profile%20views&color=0e75b6&style=flat)
 
 
