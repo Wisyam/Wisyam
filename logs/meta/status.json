@@ -1,8 +1,8 @@
 {
-  "last_success": "2026-10-01T15:21:44.099929+07:00",
-  "last_attempt": "2026-10-01T15:21:44.099929+07:00",
+  "last_success": "2026-10-01T21:02:01.089407+07:00",
+  "last_attempt": "2026-10-01T21:02:01.089407+07:00",
   "today_count": 1,
-  "last_slot": "afternoon",
+  "last_slot": "night",
   "last_reason": "written",
   "consecutive_failures": 0
 }
